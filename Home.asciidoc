@@ -1,0 +1,7 @@
+Welcome to the ApexCharts wiki!
+
+
+ApexCharts
+
+ApexCharts.js – Open-Source HTML5 JavaScript Charts
+https://apexcharts.com
